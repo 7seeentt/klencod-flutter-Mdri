@@ -1,4 +1,4 @@
-package com.you.mdri
+package com.example.mdri
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,11 +1,10 @@
-name: mdri
-description: A professional task manager built with Flutter.
+name: music_flutter
+description: A professional music player built with Flutter.
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
-
 
 dependencies:
   flutter:
@@ -16,3 +15,6 @@ dependencies:
   on_audio_query: ^2.9.0
   permission_handler: ^11.3.0
   flutter_local_notifications: ^17.0.0
+
+flutter:
+  uses-material-design: true
